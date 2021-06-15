@@ -4,6 +4,7 @@
 ### J-Link vs ST-Link vs DAP-Link vs BMP
 ### Introduction
 There are many ways to develop for bare metal.
+
 Among them
 - J-Link (JTAG)
 - ST-Link (SWD)
