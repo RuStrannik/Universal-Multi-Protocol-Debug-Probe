@@ -10,6 +10,6 @@ Among them
 - DAP-Link (CMSIS-DAP)
 
 Each requires special adapter, and most require proprietary software with multiple restrictions.
-However, debugger is rather simple essential tool. 
+However, debugger is essential and rather simple tool.
 
 I decided to create a compilation of available probes and list thier cons and pros implemented on a $2 STM32F103 'BluePill' board, as the most widespread and affordable hardware platform.
