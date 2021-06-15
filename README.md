@@ -1,5 +1,5 @@
 # STM32F103 Blue Pill as Universal Multi-Protocol Debug Probe
-![](images/stm32f103-blue-pill.jpg)
+![image](images/stm32f103-blue-pill.jpg)
 ### Simple Debug Probes
 ### J-Link vs ST-Link vs DAP-Link vs BMP
 ### Introduction
