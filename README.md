@@ -1,5 +1,5 @@
 # STM32F103 Blue Pill as Universal Multi-Protocol Debug Probe
-![image](images/stm32f103-blue-pill.jpg)
+![image](images/super-probe_v2.png)
 ### Simple Debug Probes
 ### J-Link vs ST-Link vs DAP-Link vs BMP
 ### Introduction
@@ -9,6 +9,7 @@ Among them
 - J-Link (JTAG)
 - ST-Link (SWD)
 - DAP-Link (CMSIS-DAP)
+- BMP (Black Magic Probe)
 
 Each requires special adapter, and most require proprietary software with multiple restrictions.
 However, debugger is essential and rather simple tool.
