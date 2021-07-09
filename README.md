@@ -10,6 +10,8 @@ Among them
 - ST-Link (SWD)
 - DAP-Link (CMSIS-DAP)
 - BMP (Black Magic Probe)
+Bonus:
+- USBasp for ATmel chips
 
 Each requires special adapter, and most require proprietary software with multiple restrictions.
 However, debugger is essential and rather simple tool.
