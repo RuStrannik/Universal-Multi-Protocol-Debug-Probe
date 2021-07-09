@@ -5,13 +5,13 @@
 ### Introduction
 There are many ways to develop for bare metal.
 
-Among them
+#### For ARM:
 - J-Link (JTAG)
 - ST-Link (SWD)
 - DAP-Link (CMSIS-DAP)
-- BMP (Black Magic Probe)
-Bonus:
-- USBasp for ATmel chips
+
+#### For ATmel:
+- USBasp
 
 Each requires special adapter, and most require proprietary software with multiple restrictions.
 However, debugger is essential and rather simple tool.
